@@ -1,0 +1,20 @@
+{
+  "serverAddress": "5gedge.verizon.com",
+  "serverPort": 443,
+  "endpoints": [
+    { "ern": "us-west-2-wl1-den-wlz-1",
+      "ipv4": "198.51.100.45",
+      "ipv6": "2001:0db8:5b96:0000:0000:426f:8e17:642a",
+      "uri": "/test2.mpd",
+      "fqdn": "test.tv",
+      "port": 1080
+    },
+    { "ern": "us-west-2-wl1-las-wlz-1",
+      "ipv4": "198.51.100.48",
+      "ipv6": "2001:0db8:5b96:0000:0000:426f:8e17:642b",
+      "uri": "/test2.mpd",
+      "fqdn": "test1.tv",
+      "port": 1090
+    }
+  ]
+}
